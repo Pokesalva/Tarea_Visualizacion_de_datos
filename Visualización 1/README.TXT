@@ -7,7 +7,7 @@ Los dataset fueron creados por mi, pero la información viene de estas fuentes:
  https://www.laliga.com
 
 Los primeros dataset son de los goles por temporada de el Fc Barcelona y los mejores equipo de la década.
-El segundo dataset son de los goles de messi a equipos españoles y sus ciudades
+El segundo dataset son de los goles de messi a equipos españoles, sus ciudades junto con su latitud y longitud.
 
 Lo único necesario para correr las visualizaciones son instalar las dependencias que se encuentran en la primera linea del ipynb.
 
